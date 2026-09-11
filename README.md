@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [guide en cinq chapitres](docs/fr/) relie CPU AIR, engagements de Merkle, FRI et paramètres de sécurité.
+
 # Overview
 
 [STARK](https://starkware.co/stark/) is a proof system. It uses cutting-edge cryptography to
